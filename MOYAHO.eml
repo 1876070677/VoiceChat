@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="org.mongodb:mongodb-driver-sync:4.2.3" value="project"/>
+		<level name="org.slf4j:slf4j-simple:1.7.30" value="project"/>
+		<level name="org.slf4j:slf4j-api:1.7.30" value="project"/>
+	</levels>
+</component>
